@@ -1,0 +1,83 @@
+=> Web Development : 
+        Basic : 
+            1. HTML - Hyper Text Markup Langauge --> Structure
+            2. CSS  - Cascading Style Sheet      --> Design
+            3. JS   - JavaScript                 --> Functionality 
+
+-------------------------------------------------------------
+Job  : 
+
+    1. Front-end Developer : (User Interface)
+        HTML,CSS,JS ,BOOTSTRAP,TAILWIND,REACTJS etc..
+
+    2. Back-end Developer :  (Server Side)
+        CPP,JAVA,PYTHON,NODEJS etc..
+
+    3. Full-stack Developer :
+        Frontend+Backend+Database(SQL/MONGODB)
+
+    4. Web Developer : 
+        HTML,CSS,JS 
+            1.MERN Stack Developer : 
+                M - MongoDB 
+                E - ExpressJs
+                R - ReactJs (Library+Framework)
+                N - NodeJs 
+
+            2.MEAN Stack Developer : 
+                M - MongoDB 
+                E - ExpressJs
+                A - AngularJs (Framework)
+                N - NodeJs 
+                
+-------------------------------------------------------------
+=> What is HTML ?  
+-> HTML stands for Hyper Text Markup Language.
+        1.Hyper Text : Link (depands on Content)
+
+            - Hyper : Hype (Link) (Linking Path)
+            - Text  : Content (texture,Graphics(image,video,audio),..etc)
+        2.Markup Language : 
+            - Text-encoding System
+-------------------------------------------------------------
+=> USES : 
+-> Create a Structure (Webpage/Website)
+        Webpage : Single HTML File 
+        Website : Collection of Multiple Webpages(HTML Files).
+-------------------------------------------------------------
+=> Extension of HTML : 
+    - .HTML (New)
+    - .htm  (Old)
+-------------------------------------------------------------
+=> Create a HTML  : 
+
+Filename.html
+Filename.htm
+-------------------------------------------------------------
+=> Structure of HTML : 
+
+<!DOCTYPE html>                      -->   (Version of HTML) Version HTML 5.0
+<html>                               --> Starting of HTML Tag 
+    <head>                           --> Starting of HEAD Tag
+        --> Starting of TITLE Tag
+        <title></title>              --> Ending of TITLE Tag
+    </head>                          --> Ending of HEAD Tag
+    <body>                           --> Starting of BODY Tag
+        
+    </body>                          --> Ending of BODY Tag
+</html>                              --> Ending of HTML Tag
+
+
+html Tag :  Root Tag 
+head Tag : (in Side)
+    Write a Hidden Data (don't Display User Side)
+
+body Tag : (in Side)
+    Write a Code (you want to display User Side)
+
+------------------------------------------------
+=> Download Extension for HTML : 
+1. Live Server   : (display : Bottom+right corner)  
+                   (also right Click then Click Open with Live Server)
+2. Live Preview  : (display : top+right corner)
+                   (also right Click then Click Show Preview)
