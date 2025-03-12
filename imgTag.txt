@@ -1,0 +1,10 @@
+Image Tag : 
+
+<img>
+
+
+<img src="">
+
+Image Tag Attributes : 
+
+src = source (path)
