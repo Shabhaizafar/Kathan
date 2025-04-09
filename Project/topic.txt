@@ -1,0 +1,16 @@
+Introduction 
+Basic Tags
+Image Tag
+Audio Tag 
+Video Tag 
+Location
+Youtube Video 
+List Tags
+Anchor Tag 
+Project-1 (Hotel-Menu)
+Marquee Tag 
+Project-2 (Animation)
+Table Tag 
+Form Tag 
+Iframe Tag 
+Project-3 (Hotel-Menu)
